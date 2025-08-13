@@ -1,4 +1,5 @@
 Retail Fashion Business Trend Analysis 👗📊
+
 Goal: To understand retail fashion sales trends, seasonality, category performance, AOV (Average Order Value), RFM/cohort analysis—supporting data-driven business decisions.
 
 Dataset
@@ -42,4 +43,4 @@ Copy
 Edit
 python -m venv .venv && source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-Google coolab   # or jupyter notebook
+Google Colab   # or jupyter notebook
