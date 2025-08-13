@@ -2,7 +2,9 @@ Retail Fashion Business Trend Analysis 👗📊
 Goal: To understand retail fashion sales trends, seasonality, category performance, AOV (Average Order Value), RFM/cohort analysis—supporting data-driven business decisions.
 
 Dataset
-Source: (Own)
+Source: (https://docs.google.com/spreadsheets/d/1-t6W-vA9u7d0ejDJiqTdQHFyZD7tWCDd/edit?usp=sharing&ouid=100581268667425889882&rtpof=true&sd=true)
+
+Code Source:(https://colab.research.google.com/drive/1QpdK1dw0f6WY4bY3GImv7M0GLjTXwnXb?usp=sharing)
 
 Time span: 2022-01 → 2024-12 (example)
 
